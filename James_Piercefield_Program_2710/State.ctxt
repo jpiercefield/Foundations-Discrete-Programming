@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=stateId\ transitionsString
+comment0.target=State(int,\ java.lang.String)
+comment1.params=
+comment1.target=Transition[]\ getTransitions()
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=id
+comment3.target=Transition\ getTransition(int)
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=alphabet\ states\ acceptStates
+comment0.target=PDA(java.lang.String[],\ java.util.ArrayList,\ int[])
+comment0.text=\n\ \ \ \ Constructor\ for\ Push\ Down\ Automaton\n\n\ \ \ \ @param\ alphabet\ \ \ \ The\ alphabet\ of\ this\ automaton\n\ \ \ \ @param\ states\ \ \ \ \ \ The\ array\ of\ states\ in\ ordered\ fashion\ containing\ all\ transitions\ info\n\ \ \ \ @param\ acceptState\ The\ final\ state\ ids/indexes\ of\ this\ automaton\n
+comment1.params=str\ verbose
+comment1.target=boolean\ testString(java.lang.String,\ boolean)
+comment2.params=letter\ stack1\ stack2
+comment2.target=Transition\ findTransition(java.lang.String,\ MyStack,\ MyStack)
+comment3.params=
+comment3.target=State\ getCurrentState()
+comment4.params=
+comment4.target=boolean\ isAtAcceptState()
+comment5.params=value\ arr
+comment5.target=int\ getIndex(java.lang.String,\ java.lang.String[])
+numComments=6
